@@ -1,5 +1,3 @@
-/* 48 minutes into video left off */
-
 
 <template>
   <div>
